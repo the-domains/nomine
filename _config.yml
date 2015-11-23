@@ -1,0 +1,28 @@
+name: Nomine
+favicon: null
+layout_spectrum: 0.7103408866096288
+typography_spectrum: 0.44718254660256207
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.3931464178021997
+  lightness: 0.14393194136209786
+  saturation: 0.1397238066419959
+  rhythmicContrast: 0.02105183992534876
+purpose: []
