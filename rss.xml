@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Nomine]]></title>
+        <description><![CDATA[Nomine]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Dec 2015 19:32:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Inspirational page]]></title>
+            <description><![CDATA[<article><h1>Inspirational page</h1><p>This is where we talk about logistics, and location of the site itself. Such critical details </p></article>]]></description>
+            <link>undefinedinspirational-page/index.html</link>
+            <guid isPermaLink="false">7358e916-903b-4107-8d8f-c1f76658a671</guid>
+            <pubDate>Sat, 26 Dec 2015 19:32:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
